@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gaetanvanmieghem
+- 👀 I’m interested in Data Science
+- 💞️ I’m looking to collaborate on Kaggle competitions or interesting research topics
+- 📫 How to reach me via LinkedIn at https://www.linkedin.com/in/gaetanvanmieghem/
